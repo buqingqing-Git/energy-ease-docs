@@ -82,6 +82,10 @@ Gehen Sie in der Energy Ease App zu **Home → Add device → SolarEdge → Add 
 
 <img src={require("./img/solaredge_auth_approve.png").default} style={{ maxWidth: "240px" }} />
 
+:::tip
+Wenn Sie die Seite mit der Schaltfläche **Approve** nicht sehen, gehen Sie bitte zurück zur Energy Ease App und klicken Sie erneut auf **Bind** — dann werden Sie zu dieser Seite weitergeleitet.
+:::
+
 **5. Bestätigung** — Sie sollten eine Seite mit `{"result": true, "message":"OK"}` sehen:
 
 <img src={require("./img/solaredge_auth_success.png").default} style={{ maxWidth: "240px" }} />
